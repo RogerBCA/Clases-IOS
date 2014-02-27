@@ -17,5 +17,4 @@
 @property (weak, nonatomic) IBOutlet UITextField *texto3;
 @property (weak, nonatomic) IBOutlet UILabel *textobj;
 
-
 @end
